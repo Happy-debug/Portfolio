@@ -1,0 +1,24 @@
+    .profileimage{
+        
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          }
+         . p {
+            color: #007bff;
+            text-decoration: none;
+            background-color: transparent;
+        }
+        .projects{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%; 
+        }
+        /* We're working with the body tag, and so with the WHOLE page */
+body
+{
+    background-color: blue; /* The page background will be blue */
+    color: white; /* The page text will be white */
+}
