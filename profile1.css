@@ -19,6 +19,6 @@
         /* We're working with the body tag, and so with the WHOLE page */
 body
 {
-    background-color: blue; /* The page background will be blue */
+    background-color: rgb(93, 93, 133); /* The page background will be blue */
     color: white; /* The page text will be white */
 }
